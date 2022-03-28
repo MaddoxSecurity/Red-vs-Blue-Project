@@ -32,9 +32,6 @@ Now that the IP of the server/machine was found it was time to visit it at http:
 
 ![index of 192.168.1.105](/Images/index-folder.png "index of 192.168.1.105")
 
-Working top to bottom going through the folders listed a file with a reference secret folder was located. 
-
-![secret folder path](/Images/error-secret.png "secret folder path")
 
 Following this instruction as to where to navigate to being http://192.168.1.105/company_folders/secret_folder.
 
